@@ -291,10 +291,8 @@ footer {
     margin-top: 60px;
   }
 
-  .hebrew-card {
-    transform: none;
-  }
-}
+  
+
 .about-photo {
   width: 280px;
   height: 350px;
@@ -302,4 +300,7 @@ footer {
   border-radius: 24px;
   display: block;
   margin-bottom: 24px;
+}
+.about-page .hebrew-card {
+  transform: none;
 }
