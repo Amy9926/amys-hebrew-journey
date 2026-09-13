@@ -295,3 +295,11 @@ footer {
     transform: none;
   }
 }
+.about-photo {
+  width: 280px;
+  height: 350px;
+  object-fit: cover;
+  border-radius: 24px;
+  display: block;
+  margin-bottom: 24px;
+}
